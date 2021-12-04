@@ -36,7 +36,7 @@ public class Brick {
 			this.level = level;
 			rand = new Random();
 			if(level > 0) {
-				powerup = rand.nextInt(6);
+				powerup = rand.nextInt(35);
 			}
 			bounds = new Rectangle(x, y, width, height);
 			loader = new ImageLoader(ImageLoader.brick);
