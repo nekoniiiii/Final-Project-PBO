@@ -1,2 +1,2 @@
 # Final-Project-PBO
-This project was created to fulfill the final project of object oriented programming course
+This simple game was created to fulfill the final project of object oriented programming course
