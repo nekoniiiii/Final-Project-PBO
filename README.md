@@ -1,9 +1,9 @@
-## Final Project Pemrograman Berorientasi Objek (OOP)
+# Final Project Pemrograman Berorientasi Objek (OOP)
 This game was created to fulfill the final project of object oriented programming course.
 
 This project is based on the famous brick breaker game. In this project, we use Java programming language.
 
-# Overview
+## Overview
 
 ![messageImage_1640059330249](https://user-images.githubusercontent.com/72701806/146869219-27ecf3b7-fb7f-4f12-a3f6-dbbb544fd62d.jpg)
 
