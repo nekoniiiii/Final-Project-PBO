@@ -6,7 +6,7 @@ This project is based on the famous brick breaker game. In this project, we use 
 ## Overview
 
 <p align="center">
-  <img width="460" height="300" src=![messageImage_1640059330249](https://user-images.githubusercontent.com/72701806/146869219-27ecf3b7-fb7f-4f12-a3f6-dbbb544fd62d.jpg)>
+  <img width="600" height="800" src=https://user-images.githubusercontent.com/72701806/146869219-27ecf3b7-fb7f-4f12-a3f6-dbbb544fd62d.jpg>
 </p>
 
 ![messageImage_1640059330249](https://user-images.githubusercontent.com/72701806/146869219-27ecf3b7-fb7f-4f12-a3f6-dbbb544fd62d.jpg)
