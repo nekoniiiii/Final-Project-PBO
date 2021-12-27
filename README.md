@@ -10,3 +10,5 @@ This project is based on the famous brick breaker game. In this project, we use 
   <img width="600" height="800" src=https://user-images.githubusercontent.com/72701806/146869246-ce05ea52-95c0-479c-a40b-cfaf4718d582.jpg>
   <img width="600" height="800" src=https://user-images.githubusercontent.com/72701806/146868699-3f051ff9-cb4e-487e-bb65-9965ec31b472.jpg>
 </p>
+
+Credit: http://www.neehaw.com/Projects/Item.php?ID=10
